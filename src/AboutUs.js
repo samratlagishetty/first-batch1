@@ -3,7 +3,7 @@ import './AboutUs.css'
 function AboutUs(){
     return(
         <div>
-            <h1 class="aboutus">About us</h1>
+            <h1 class="aboutus">REACT JS Stuff</h1>
             <p class="aboutusdescription">🎉 Learning ReactJS has never been this exciting!
 As you dive into components, props, hooks, and state management, you also get a chance to win a lucky draw!
 Each line of code brings you closer to mastering front-end magic — and who knows, you might just be the lucky one to celebrate with confetti and surprises! 🎯
