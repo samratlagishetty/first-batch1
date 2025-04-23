@@ -1,0 +1,11 @@
+
+.header{
+    height: 50px;
+    background-color: rgb(118, 63, 170);
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    box-shadow: 5px 5px 10px black;
+}
